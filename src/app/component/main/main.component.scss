@@ -1,0 +1,13 @@
+@import '../../../material-theme';
+
+:host{
+  flex: 1;
+
+  #main-sidenav {
+    height: 100%;
+
+    #menu-sidenav{
+      background-color: mat-color($al-menu-background);
+    }
+  }
+}
