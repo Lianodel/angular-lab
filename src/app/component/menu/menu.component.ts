@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuComponent implements OnInit {
   public items = [
-    {name: 'Typescript', icon: 'info', route: ['', 'basic']},
+    {name: 'Système solaire', icon: 'info', route: ['', 'solar-system']},
     {name: 'Typescript', icon: 'info', route: ['', 'typescript']},
     {name: 'Typescript', icon: 'info', route: ['', 'typescript']},
     {name: 'Typescript', icon: 'info', route: ['', 'typescript']},
